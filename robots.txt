@@ -1,0 +1,24 @@
+# robots.txt generated at http://www.mcanerin.com
+User-agent: *
+# Disallow:
+Disallow: /Old/
+Disallow: /css/
+Disallow: /_test/
+Disallow: /js/
+Disallow: /main.html
+Disallow: /images/
+Disallow: /Templates/
+Disallow: /nl/
+Disallow: /en/
+Disallow: /all/
+Disallow: /de/alternatieve.html
+Disallow: /de/bilder%20haus%20frame.html
+Disallow: /de/bilder%20umgebung%20frame.html
+Disallow: /de/Daten%20frame.html
+Disallow: /de/fehler.html
+Disallow: /de/googlekarte%20frame.html
+Disallow: /de/kosten%20frame.html
+Disallow: /de/reaction.html
+Disallow: /de/unterhaltung.html
+Disallow: /de/verfuegbare%20perioden%20frame.html
+Sitemap: http://www.vakantiehuis-mimi.nl/sitemap.xml
