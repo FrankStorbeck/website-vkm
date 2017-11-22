@@ -1,0 +1,7 @@
+.DS_Store
+.git
+*.weproj
+prev_index.html
+de/prev_index.html
+uk/prev_index.html
+syncsite/
