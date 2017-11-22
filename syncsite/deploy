@@ -1,0 +1,204 @@
+#!/bin/bash
+#
+#  syncsite.sh
+#
+#  Synchronizes the website www.vakantiehuis-mimi on the server west.storbeck.nl
+#  If syncsite.sh is called without arguments the backup of the users home
+#  directory (/User/<user_name>) is stored at host nicknamed 'stor' in
+#  /data/backup/rTimeMachine/<user_name>.
+#  In /etc/hosts we defined:
+#  # webserver Kai
+#  213.222.7.11    west.storbeck.nl west
+#
+#  The method has a number of options to handle its behaviour. See Usage ()
+#
+#  Modified by Frank Storbeck after Carrasco Benitez, M.T.; tym; under the EUPL.
+#  See: http://dragoman.org/tym/
+#       https://joinup.ec.europa.eu/software/page/eupl
+#
+
+# Globals:
+readonly    Version="1.1 (26-03-2014)"
+readonly    Notice='Copyright: Frank Storbeck. License: EUPL.'
+            BaseName=${0##*/}
+            BaseName=${BaseName%%.*}
+readonly    RemoteUser=franks
+readonly    RemoteHost="west.storbeck.nl"
+readonly    PIdFile="/tmp/$BaseName.pid"
+readonly    LocalDir="htdocs"
+readonly    RemoteDir="/usr/local/www/vhosts/west.storbeck.nl/htdocs"
+
+readonly    StatusOK=0
+readonly    StatusSyncRunning=128
+readonly    StatusSyncIsKilled=129
+readonly    StatusIllegalOptionFound=130
+            ExitCode=$StatusOK
+
+# ==========================================================================
+# DoSync () does the syncing
+# arguments
+#  $1: Directory to be backupped.
+#  $2: User name at remote host.
+#  $3: Remote host.
+#  $4: Destination directory at remote host for storing the backup.
+#  $5: if present do a dry run.
+#
+#  XXX: fix comment
+#  In a file named $1/exclude.txt in the users home directory one can
+#  list a number of files and directories to be excluded from the syncing (see
+#  e.g. http://www.linuxmanpages.com/man1/rsync.1.php).
+#
+DoSync () {
+    if [ -f $PIdFile ]; then
+        echo "Syncing seems to be running, exit."
+        ExitCode=$StatusSyncRunning
+        return
+    fi
+
+    trap "{ rm -f $PIdFile ; exit $StatusSyncIsKilled; }" EXIT
+
+    echo $$ > $PIdFile
+
+    local readonly Dir="$1"
+    local readonly RUser="$2"
+    local readonly RHost="$3"
+    local readonly RDir="$4"
+    local readonly DoDryRun="$5"
+    local readonly UserAtHost="$RUser@$RHost"
+    local readonly TimeStamp=$(date +%y%m%d-%H%M%S)
+    local readonly LogDir=syncsite
+    local readonly LogFile=$LogDir/$TimeStamp.log
+    local readonly RSyncFrmt='%i %10b %12l %-f'
+
+    local readonly DestinationPath="$UserAtHost:$RDir"
+    if [ "$DoDryRun" ]; then
+        local readonly QuietOrDryRun="-vv --dry-run"
+    else
+        local readonly QuietOrDryRun="-v"
+    fi
+    local readonly ExcludeFrom="syncsite/exclude.txt"
+    if [ -f "$ExcludeFrom" ]; then
+        local readonly Exclude="--exclude-from $ExcludeFrom"
+    else
+        local readonly Exclude=''
+    fi
+
+    mkdir -p $LogDir
+
+    DoLogMssg     "$(date '+%Y/%m/%d %T')" "Source:          " "$Dir"
+    DoLogMssg     "                   "    "Exclude from:    " "$ExcludeFrom"
+    DoLogMssg     "                   "    "Sync with   :    " "$DestinationPath"
+
+# On reverse (remote to local) do the following instead:
+# rsync -av $UserAtHost:$RemoteDir/ $LocalDir
+
+    rsync   --archive \
+        --delete \
+        --delete-excluded \
+        --ipv6 \
+        --log-file=$LogFile \
+        --log-file-format="$RSyncFrmt" \
+        $QuietOrDryRun \
+        $Exclude \
+        $Dir \
+        $DestinationPath
+    ExitCode=$?
+    rm -f $PIdFile
+}
+
+# ==========================================================================
+# DoLogMssg () writes three arguments to the logfile
+#
+DoLogMssg () {
+    echo "$1 $2 $3"
+}
+
+# ==========================================================================
+# Kill () kills a running backup process
+#
+Kill () {
+    if [ -f $PIdFile ]; then
+        local readonly PId=$(cat $PIdFile)
+        echo "$(date '+%Y/%m/%d %T') Killing ${0##*/} (pid = $PId)"
+        kill -9 $PId
+        ExitCode=$?
+        rm -f $PIdFile
+    else
+        echo "No syncing seems to be running."
+        ExitCode=$StatusNoBackupRunning
+    fi
+}
+
+# ==========================================================================
+# Usage () tells the user how to use this script
+#
+Usage ()
+{
+    cat << EOF
+NAME $BaseName:
+    This script synchchronizes the data in $LocalDir
+    with the data on $RemoteHost in the folder $RemoteDir
+
+USAGE:
+$0 [-h] [-v] [-D] [-k] [-s <dir>]
+
+OPTIONS:
+    -h       show this message and exit.
+    -k       kill a running backup process.
+    -s <dir> sync the subdirectory $LocalDir/<dir> with
+             $RemoteDir/<dir> only.
+    -v       show version and exit.
+    -D       do a dry run.
+
+RETURNS:
+    $StatusOK - Success
+    $StatusSyncRunning - Action failed because a sync is already running.
+    $StatusSyncIsKilled - Backup was killed.
+    $StatusIllegalOptionFound - Action failed because an illegal option was found.
+    Other - internal exit code given by a process executed by $0.
+
+EOF
+    ExitCode=$?
+}
+
+# ==========================================================================
+# Main:
+#
+DoDryRun=''
+SubDir=''
+if ! [ -d "htdocs/" ]; then
+	echo "Run deploy only from the root of the repository"
+	exit
+fi
+while getopts “:hvks:D” OPTION
+do
+    case $OPTION
+    in h)
+        Usage
+        exit $ExitCode
+    ;; v)
+        echo "Version: $Version"
+        exit $ExitCode
+    ;; k)
+        Kill
+        exit $ExitCode
+    ;; s)
+        SubDir="/$OPTARG"
+    ;; D)
+        DoDryRun="dry"
+    ;; ?)
+        echo "Illegal option: $?"
+        Usage
+        exit $StatusIllegalOptionFound
+    ;;
+    esac
+done
+
+DoSync \
+    $LocalDir$SubDir/ \
+    $RemoteUser \
+    $RemoteHost \
+    $RemoteDir$SubDir \
+    $DoDryRun
+
+exit $ExitCode

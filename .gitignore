@@ -1,4 +1,4 @@
-/syncsite
+/syncsite/*.log
 .DS_Store
 *.weproj
 prev_index.html
