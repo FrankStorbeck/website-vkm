@@ -1,0 +1,16 @@
+#concat
+A week runs from Saturday until the next one.
+#A weekend runs from Friday until Monday.
+
+#During the holydays we offer a discount for stays of two or three weeks. In
+#these cases the total amounts are shown in the apropiate columns.
+
+The cleaning costs are €60 per stay.
+
+In addition, also tourist tax must be charged: € 1.75 per person per night
+(from 4 years).
+
+Cleaning and tourist tax must be paid upon departure in cash.
+
+On cancelation until 30 days before the arival date the rental fee will be
+refunded reduced by €50.

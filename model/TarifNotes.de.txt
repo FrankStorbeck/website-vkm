@@ -1,0 +1,19 @@
+#concat
+Eine Woche läuft immer von Samstag bis Samstag.
+#Ein Wochenende dauert von Freitag bis Montag
+
+#Während der Ferien bieten wir einen Rabatt für eine Buchong von zwei oder
+#drei Wochen. Die Rate für den gesamten Zwei- oder Dreiwochenzeitraum wird dann
+#angegeben in der relevanten Spalte.
+
+#Die Preise sind in Euro (€) angegeben.
+
+Die Reinigungskosten betragen € 55 pro Aufenthalt.
+
+Zusätzlich wird die Kurtaxe erhoben: € 1,75 pro
+Person pro Nacht (ab 4 Jahren).
+
+Reinigungskosten und Kurtaxe müssen bei der Abreise in bar bezahlt werden.
+
+Stornierungen, die bis zu 30 Tage vor dem geplanten Anreisedatum erfolgen,
+werden zurückerstattet minus € 50.

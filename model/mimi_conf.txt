@@ -1,0 +1,396 @@
+Description
+nl:Huuraanbod vakantiewoning met sauna bij de Schoorlse duinen aan de Noordzee
+de:Vermietungsangebot Ferienwohnung mit Sauna in de Nähe der Dünen von Schoorl beim Nordsee
+uk:Rental offering holidayhouse with sauna close to the dunes of Schoorl at the North Sea
+
+Keywords
+nl:vakantiewoning, schoorl, privé sauna, duinen, strand, Noordzee
+de:Ferienwohnung, Schoorl, Privatsauna, Dünen, Strand, Nordsee
+uk:holidayhouse, Schoorl, private sauna, dunes, shore, North Sea
+
+Title
+nl:Vakantiehuis "Mimi"
+de:Vakantiehuis "Mimi"
+uk:Holliday house "Mimi"
+
+#ModalDialog
+#nl:Wij zijn van 10-09 t.m. 31-09 zelf met vakantie.
+#de:Ab 10-09 bis 31-09 machen wir selber Ferien
+#uk:From 10-09 until 31-09 we are on holidays ourselves.
+
+Inventory
+nl:Inventaris
+de:Inventar
+uk:Inventory
+
+Availability
+nl:Beschikbaarheid
+de:Vefügbarkeit
+uk:Availability
+
+Tarifs
+nl:Tarieven
+de:Kosten
+uk:Tarifs
+
+Route
+nl:Route
+de:Route
+uk:Finding us
+
+Contact
+nl:Contact
+de:Kontakt
+uk:Contact
+
+LangMenus
+nl:[index.html;images/nl.jpg;Nederlands;de/index.html;images/de.jpg;Duits;uk/index.html;images/uk.jpg;Engels]
+de:[index.html;../images/de.jpg;Deutsch;../index.html;../images/nl.jpg;Niederländisch;../uk/index.html;../images/uk.jpg;Englisch]
+uk:[index.html;../images/uk.jpg;English;../index.html;../images/nl.jpg;Dutch;../de/index.html;../images/de.jpg;German]
+
+HomeText
+nl:&HomeText.nl.txt
+de:&HomeText.de.txt
+uk:&HomeText.uk.txt
+
+ImageGalery
+nl:Fotogalerij
+de:Fotogalerie
+uk:Foto galery
+
+Images
+#Gevel straatzijde
+nl:[14voorgevel.jpg;]
+de:[14voorgevel.jpg;]
+uk:[14voorgevel.jpg;]
+#Zijgevel vanaf kas
+nl:[18zijgevel.jpg;]
+de:[18zijgevel.jpg;]
+uk:[18zijgevel.jpg;]
+#Kamer vanaf trap
+nl:[IMG_2683.JPG;]
+de:[IMG_2683.JPG;]
+uk:[IMG_2683.JPG;]
+#Kamer vanaf boekenkast
+nl:[IMG_2684.JPG;]
+de:[IMG_2684.JPG;]
+uk:[IMG_2684.JPG;]
+#Kamer vanaf zuidhoek
+nl:[IMG_2685.JPG;]
+de:[IMG_2685.JPG;]
+uk:[IMG_2685.JPG;]
+#Boekenkast & tafel vanaf keuken
+nl:[IMG_2686.JPG;]
+de:[IMG_2686.JPG;]
+uk:[IMG_2686.JPG;]
+#Boekenkast vanuit hal
+nl:[IMG_0111.JPG;]
+de:[IMG_0111.JPG;]
+uk:[IMG_0111.JPG;]
+#Kamer vanaf trap
+nl:[IMG_0112.JPG;]
+de:[IMG_0112.JPG;]
+uk:[IMG_0112.JPG;]
+#Doorkijk naar keuken vanaf Boekenkast
+nl:[IMG_0110.JPG;]
+de:[IMG_0110.JPG;]
+uk:[IMG_0110.JPG;]
+#Nieuwe keuken
+#nl:[IMG_2677.JPG;]
+#de:[IMG_2677.JPG;]
+#uk:[IMG_2677.JPG;]
+#nieuwe keuken
+nl:[IMG_0101.JPG;]
+de:[IMG_0101.JPG;]
+uk:[IMG_0101.JPG;]
+#Voorslaapkamer (recent)
+nl:[IMG_2682.JPG;]
+de:[IMG_2682.JPG;]
+uk:[IMG_2682.JPG;]
+#Overloop met kinderbed
+nl:[08overloop.jpg;]
+de:[08overloop.jpg;]
+uk:[08overloop.jpg;]
+#Achterslaapkamer (oud)
+nl:[13slaapkamer2.jpg;]
+de:[13slaapkamer2.jpg;]
+uk:[13slaapkamer2.jpg;]
+#Sauna
+nl:[10sauna.jpg;]
+de:[10sauna.jpg;]
+uk:[10sauna.jpg;]
+#Dompelbad
+nl:[11dompelbad.jpg;]
+de:[11dompelbad.jpg;]
+uk:[11dompelbad.jpg;]
+#Terras vanaf schommel
+nl:[16terras.jpg;]
+de:[16terras.jpg;]
+uk:[16terras.jpg;]
+#Terras vanuit sauna
+nl:[17terras.jpg;]
+de:[17terras.jpg;]
+uk:[17terras.jpg;]
+#Terras vanaf appelboom
+nl:[15terras.jpg;]
+de:[15terras.jpg;]
+uk:[15terras.jpg;]
+#Tuin vanaf voorkant huis
+nl:[22tuin.jpg;]
+de:[22tuin.jpg;]
+uk:[22tuin.jpg;]
+#Schommel
+nl:[24schommel.jpg;]
+de:[24schommel.jpg;]
+uk:[24schommel.jpg;]
+#===
+#Hal
+#nl:21hal.jpg;]
+#de:21hal.jpg;]
+#uk:21hal.jpg;]
+#nl:[IMG_0109.JPG;]#Zithoek nieuw
+#de:[IMG_0109.JPG;]
+#uk:[IMG_0109.JPG;]
+#===
+#Agapanthus
+#nl:[01agapanthus.jpg;]
+#de:[01agapanthus.jpg;]
+#uk:[01agapanthus.jpg;]
+#Appelboom in tuin
+#nl:[02appelboom.jpg;]
+#de:[02appelboom.jpg;]
+#uk:[02appelboom.jpg;]
+#Uitkijkpunt nieuwe Hondsbosche  zeewering
+#nl:[IMG_4028.JPG;]
+#de:[IMG_4028.JPG;]
+#uk:[IMG_4028.JPG;]
+#Nieuwe Hondsbosche zeewering
+#nl:[IMG_4067.JPG;]
+#de:[IMG_4067.JPG;]
+#uk:[IMG_4067.JPG;]
+#Dijkje in Pettemer polder
+#nl:[IMG_4041.JPG;]
+#de:[IMG_4041.JPG;]
+#uk:[IMG_4041.JPG;]
+#Zuidlaan in Bergen
+#nl:[IMG_4747.JPG;]
+#de:[IMG_4747.JPG;]
+#uk:[IMG_4747.JPG;]
+#Kleine blinkerd bij Koningsweg#nl:[IMG_4062.JPG;]
+#de:[IMG_4062.JPG;]
+#uk:[IMG_4062.JPG;]
+#Corsicaanse den
+#nl:[IMG_4029.JPG;]
+#de:[IMG_4029.JPG;]
+#uk:[IMG_4029.JPG;]
+#Schapenwei Z.O. van Achterpad
+#nl:[IMG_4060.JPG;]
+#de:[IMG_4060.JPG;]
+#uk:[IMG_4060.JPG;]
+#Fietspad op Hondsbosche zeewering
+#nl:[IMG_4024.JPG;]
+#de:[IMG_4024.JPG;]
+#uk:[IMG_4024.JPG;]
+#Dijkje bij sluis Petttemer polder
+#nl:[26polder.jpg;]
+#de:[26polder.jpg;]
+#uk:[26polder.jpg;]
+#Molen in Pettemer polder
+#nl:[25molen.jpg;]
+#de:[25molen.jpg;]#Mühle in Pettemer Polder
+#uk:[25molen.jpg;]#Mill in Pettemer polder
+#Groeter kerkje
+#nl:[IMG_4039.JPG;]
+#de:[IMG_4039.JPG;]
+#uk:[IMG_4039.JPG;]
+
+Bookings
+:&Bookings.csv;inNext12Months
+
+InventoryItems
+nl:&Inventory.nl.txt
+de:&Inventory.de.txt
+uk:&Inventory.uk.txt
+
+Free
+nl:vrij
+de:frei
+uk:free
+
+Occupied
+nl:bezet
+de:belegt
+uk:occupied
+
+DayNames
+nl:[za;zo;ma;di;wo;do;vr]
+de:[Sa;So;Mo;Di;Mi;Do;Fr]
+uk:[sa;su;mo;tu;we;th;fr]
+
+MonthNames
+nl:[januari;februari;maart;april;mei;juni;juli;augustus;september;oktober;november;december]
+de:[Juanuar;Februar;Mätz;April;Mai;Juni;Juli;Augustus;September;October;November;Dezember]
+uk:[January;February;March;April;May;June;July;August;September;October;November;December]
+
+TarifHdr
+nl:[van;tot;minimum verblijf (nachten);per nacht;per week]
+de:[von;bis;minimum Aufenthalt (Nächte);pro Nacht;pro Woche]
+uk:[from;until;minimum stay (nights);per night;per week]
+
+TarifNotes
+nl:&TarifNotes.nl.txt
+de:&TarifNotes.de.txt
+uk:&TarifNotes.uk.txt
+
+TarifRows
+:&Tarifs.csv;inNext12Months
+
+RouteDscrptns
+nl:&Route.nl.txt
+de:&Route.de.txt
+uk:&Route.uk.txt
+
+ContactMssg
+nl:Hier kunt u ons een bericht sturen. Geeft U a.u.b. aan met hoeveel personen u het vakantiehuis wilt benutten. Wij nemen zo spoedig mogelijk contact met u op.
+de:Hier könnnen Sie uns eine Nachricht schicken. Geben Sie bitte an, wann und mit wie vielen Personen Sie unsere Ferienwohnung benutzen wollen. Wir antworten so bald wie möglich.
+uk:Here you can send us a message in which you indidicate with how many persons and in what period you would like to visit our holiday house. We will then contact you a.s.a.p.
+
+CopyRightNotice
+nl:Alle Rechten voorbehouden
+de:Alle Rechte vorbehalten
+uk:All rights reserved
+
+Click
+nl:Klik
+de:Klicken Sie bitte
+uk:Click
+
+EmptyOrPostive
+nl:Mag leeg zijn of anders een heel getal groter dan nul
+de:Leer oder positives Zahl
+uk:Can be empty, but otherwise a number greater than zero
+
+EMail
+nl:e-mail
+de:Emailadresse
+uk:E-mail
+
+EMailPattern
+nl:gebruik user@domein.top_level_domein
+de:brauchen Sie user@Domain.Topleveldomain
+uk:use user@domain.top_level_domain
+
+Here
+nl:hier
+de:hier
+uk:here
+
+Mssg
+nl:Bericht
+de:Nachricht
+uk:Message
+
+Name
+nl:Naam
+de:Nahme
+uk:Name
+
+Number
+nl:Aantal
+de:Anzahl
+uk:Number
+
+NmbrAdults
+nl:Aantal volwassenen
+de:Anzahl der Erwachsenen
+uk:Number adults
+
+NmbrChildren
+nl:Aantal kinderen
+de:Anzahl der Kinder
+uk:Number children
+
+Period
+nl:Periode
+de:Zeitraum
+uk:Period
+
+Phone
+nl:Telefoon
+de:Telefoon
+uk:Phone
+
+PhoneNumber
+nl:Mag leeg zijn of anders alleen een eventeel plusteken gevolgd door 7 tot 13 cijfers
+de:Leer oder eine eventuelle Plus gefolgt von 7 bis 13 Ziffern
+uk:Can be empty,otherwise an otional plus sign followed by 7 to 13 digits
+
+Positive
+nl:moet heel getal groter dan nul zijn
+de:ganzes Zahl, grösser wie Nul
+uk:must be greater than zero
+
+Question
+nl:Opgave
+de:Aufgabe
+uk:Question
+
+RequestedPeriod
+nl:Gewenste periode
+de:Gewünschten Zeitraum
+uk:Requested period
+
+Renew
+nl:om de opgave te vernieuwen
+de:um die Aufgabe zu erneuen
+uk:to renew the question
+
+Reset
+nl:Wis
+de:Löschen
+uk:Reset
+
+Retry
+nl:De opgave is niet goed beantwoord. Probeer het opnieuw
+de:die Frage ist nicht gut beantwortet; versuchen Sie es nochmals
+uk:the question wasn't answered correctly, please try again
+
+Required
+nl:Verplicht veld
+de:Pflichtfeld
+uk:Required
+
+RequiredMssg
+nl:Velden gemerkt met een * moeten verplicht ingevuld worden
+de:Felder markiert von einem * sollen eingetragen werden
+uk:Fields marked with a * must be entered
+
+Submit
+nl:Verstuur
+de:Verschicke
+uk:Submit
+
+YourAnswer
+nl:Uw antwoord op de opgave hierbove
+de:Ihre Antwort für die Aufgabe
+uk:Your answer for the question above
+
+YourMssg
+nl:Uw bericht
+de:Ihre Nachricht
+uk:Your message
+
+YourName
+nl:Uw naam
+de:Ihre Nahme
+uk:Your name
+
+YourPhone
+nl:Uw telefoonnummer
+de:Ihre Telefonnummer
+uk:Your phone number
+
+YourEMail
+nl:Uw email-adres
+de:Ihre EMailadresse
+uk:Your email-address

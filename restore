@@ -1,0 +1,4 @@
+#!/bin/sh
+cp -p .prev/index-nl.html htdocs/
+cp -p .prev/index-de.html htdocs/de/
+cp -p .prev/index-uk.html htdocs/uk/

@@ -1,0 +1,8 @@
+#!/bin/sh
+mv htdocs/index.html .prev/index-nl.html
+mv htdocs/de/index.html .prev/index-de.html
+mv htdocs/uk/index.html .prev/index-uk.html
+
+makemimi
+makemimi -l de
+makemimi -l uk

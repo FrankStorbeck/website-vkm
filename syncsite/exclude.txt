@@ -6,3 +6,5 @@ de/prev_index.html
 uk/prev_index.html
 syncsite/
 .gitignore
+images/new/
+images/Old/

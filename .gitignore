@@ -1,4 +1,22 @@
-/syncsite/*.log
+#####
+# temporary files that should never be committed
+
 .DS_Store
-*.weproj
+*.swp
+*.lock
+
+# Golang specific
+fonts/
 prev_index.html
+index.html
+index_test.html
+slider*
+npm.js
+style.css
+glyphicons*
+htdocs/images/Old/
+htdocs/images/new/
+*.xlsx
+*.log
+*.weproj
+.prev
