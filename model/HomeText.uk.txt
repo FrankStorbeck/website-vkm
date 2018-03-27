@@ -1,5 +1,5 @@
-#concat
-In Schoorl, about 45 km North West from Amsterdam, our holiday house "Mimi" is for rent.
+/*concat*/
+In Schoorl, about 45 km North West from Amsterdam, our holiday house 'Mimi' is for rent.
 It is situated behind our house but lies completely free from it. We live at a very quiet
 little street that a little further on turns into a bicycle path leading you directly to the
 dunes.

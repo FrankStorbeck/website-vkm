@@ -1,5 +1,5 @@
-#concat
-In Schoorl, etwa 40 km Nordwestlich von Amsterdam, kunnen Sie unseres gemütliches Ferienhaus "Mimi"
+/*concat*/
+In Schoorl, etwa 40 km Nordwestlich von Amsterdam, kunnen Sie unseres gemütliches Ferienhaus 'Mimi'
 mieten. Es befindet sich hinter unserem Wohnung, aber es liegt frei. Wir wohnen an einer ganz
 ruhiger kleiner Strasse die ein wenig weiter ein Faradweg wird und gleich zu den Dünen führt.
 

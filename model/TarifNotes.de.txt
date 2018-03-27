@@ -1,12 +1,14 @@
-#concat
+/*concat*/
 Eine Woche läuft immer von Samstag bis Samstag.
-#Ein Wochenende dauert von Freitag bis Montag
+//Ein Wochenende dauert von Freitag bis Montag
 
-#Während der Ferien bieten wir einen Rabatt für eine Buchong von zwei oder
-#drei Wochen. Die Rate für den gesamten Zwei- oder Dreiwochenzeitraum wird dann
-#angegeben in der relevanten Spalte.
+/*
+Während der Ferien bieten wir einen Rabatt für eine Buchong von zwei oder
+drei Wochen. Die Rate für den gesamten Zwei- oder Dreiwochenzeitraum wird dann
+angegeben in der relevanten Spalte.
+*/
 
-#Die Preise sind in Euro (€) angegeben.
+//Die Preise sind in Euro (€) angegeben.
 
 Die Reinigungskosten betragen € 55 pro Aufenthalt.
 

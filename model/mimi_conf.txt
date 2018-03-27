@@ -13,10 +13,12 @@ nl:Vakantiehuis "Mimi"
 de:Vakantiehuis "Mimi"
 uk:Holliday house "Mimi"
 
-#ModalDialog
-#nl:Wij zijn van 10-09 t.m. 31-09 zelf met vakantie.
-#de:Ab 10-09 bis 31-09 machen wir selber Ferien
-#uk:From 10-09 until 31-09 we are on holidays ourselves.
+/*
+ModalDialog
+nl:Wij zijn van 10-09 t.m. 31-09 zelf met vakantie.
+de:Ab 10-09 bis 31-09 machen wir selber Ferien
+uk:From 10-09 until 31-09 we are on holidays ourselves.
+*/
 
 Inventory
 nl:Inventaris
@@ -59,150 +61,156 @@ de:Fotogalerie
 uk:Foto galery
 
 Images
-#Gevel straatzijde
+//Gevel straatzijde
 nl:[14voorgevel.jpg;]
 de:[14voorgevel.jpg;]
 uk:[14voorgevel.jpg;]
-#Zijgevel vanaf kas
+//Zijgevel vanaf kas
 nl:[18zijgevel.jpg;]
 de:[18zijgevel.jpg;]
 uk:[18zijgevel.jpg;]
-#Kamer vanaf trap
-nl:[IMG_2683.JPG;]
-de:[IMG_2683.JPG;]
-uk:[IMG_2683.JPG;]
-#Kamer vanaf boekenkast
-nl:[IMG_2684.JPG;]
-de:[IMG_2684.JPG;]
-uk:[IMG_2684.JPG;]
-#Kamer vanaf zuidhoek
-nl:[IMG_2685.JPG;]
-de:[IMG_2685.JPG;]
-uk:[IMG_2685.JPG;]
-#Boekenkast & tafel vanaf keuken
-nl:[IMG_2686.JPG;]
-de:[IMG_2686.JPG;]
-uk:[IMG_2686.JPG;]
-#Boekenkast vanuit hal
-nl:[IMG_0111.JPG;]
-de:[IMG_0111.JPG;]
-uk:[IMG_0111.JPG;]
-#Kamer vanaf trap
-nl:[IMG_0112.JPG;]
-de:[IMG_0112.JPG;]
-uk:[IMG_0112.JPG;]
-#Doorkijk naar keuken vanaf Boekenkast
-nl:[IMG_0110.JPG;]
-de:[IMG_0110.JPG;]
-uk:[IMG_0110.JPG;]
-#Nieuwe keuken
-#nl:[IMG_2677.JPG;]
-#de:[IMG_2677.JPG;]
-#uk:[IMG_2677.JPG;]
-#nieuwe keuken
-nl:[IMG_0101.JPG;]
-de:[IMG_0101.JPG;]
-uk:[IMG_0101.JPG;]
-#Voorslaapkamer (recent)
-nl:[IMG_2682.JPG;]
-de:[IMG_2682.JPG;]
-uk:[IMG_2682.JPG;]
-#Overloop met kinderbed
+//Kamer vanaf trap
+nl:[IMG_2683.jpg;]
+de:[IMG_2683.jpg;]
+uk:[IMG_2683.jpg;]
+//Kamer vanaf boekenkast
+nl:[IMG_2684.jpg;]
+de:[IMG_2684.jpg;]
+uk:[IMG_2684.jpg;]
+//Kamer vanaf zuidhoek
+nl:[IMG_2685.jpg;]
+de:[IMG_2685.jpg;]
+uk:[IMG_2685.jpg;]
+//Boekenkast & tafel vanaf keuken
+nl:[IMG_2686.jpg;]
+de:[IMG_2686.jpg;]
+uk:[IMG_2686.jpg;]
+//Boekenkast vanuit hal
+nl:[IMG_0111.jpg;]
+de:[IMG_0111.jpg;]
+uk:[IMG_0111.jpg;]
+//Kamer vanaf trap
+nl:[IMG_0112.jpg;]
+de:[IMG_0112.jpg;]
+uk:[IMG_0112.jpg;]
+//Doorkijk naar keuken vanaf Boekenkast
+nl:[IMG_0110.jpg;]
+de:[IMG_0110.jpg;]
+uk:[IMG_0110.jpg;]
+/*
+//Nieuwe keuken
+nl:[IMG_2677.jpg;]
+de:[IMG_2677.jpg;]
+uk:[IMG_2677.jpg;]
+*/
+//Nieuwe keuken
+nl:[IMG_0101.jpg;]
+de:[IMG_0101.jpg;]
+uk:[IMG_0101.jpg;]
+//Voorslaapkamer (recent)
+nl:[IMG_2682.jpg;]
+de:[IMG_2682.jpg;]
+uk:[IMG_2682.jpg;]
+//Overloop met kinderbed
 nl:[08overloop.jpg;]
 de:[08overloop.jpg;]
 uk:[08overloop.jpg;]
-#Achterslaapkamer (oud)
+//Achterslaapkamer (oud)
 nl:[13slaapkamer2.jpg;]
 de:[13slaapkamer2.jpg;]
 uk:[13slaapkamer2.jpg;]
-#Sauna
+//Sauna
 nl:[10sauna.jpg;]
 de:[10sauna.jpg;]
 uk:[10sauna.jpg;]
-#Dompelbad
+//Dompelbad
 nl:[11dompelbad.jpg;]
 de:[11dompelbad.jpg;]
 uk:[11dompelbad.jpg;]
-#Terras vanaf schommel
+//Terras vanaf schommel
 nl:[16terras.jpg;]
 de:[16terras.jpg;]
 uk:[16terras.jpg;]
-#Terras vanuit sauna
+//Terras vanuit sauna
 nl:[17terras.jpg;]
 de:[17terras.jpg;]
 uk:[17terras.jpg;]
-#Terras vanaf appelboom
+//Terras vanaf appelboom
 nl:[15terras.jpg;]
 de:[15terras.jpg;]
 uk:[15terras.jpg;]
-#Tuin vanaf voorkant huis
+//Tuin vanaf voorkant huis
 nl:[22tuin.jpg;]
 de:[22tuin.jpg;]
 uk:[22tuin.jpg;]
-#Schommel
+//Schommel
 nl:[24schommel.jpg;]
 de:[24schommel.jpg;]
 uk:[24schommel.jpg;]
-#===
-#Hal
-#nl:21hal.jpg;]
-#de:21hal.jpg;]
-#uk:21hal.jpg;]
-#nl:[IMG_0109.JPG;]#Zithoek nieuw
-#de:[IMG_0109.JPG;]
-#uk:[IMG_0109.JPG;]
-#===
-#Agapanthus
-#nl:[01agapanthus.jpg;]
-#de:[01agapanthus.jpg;]
-#uk:[01agapanthus.jpg;]
-#Appelboom in tuin
-#nl:[02appelboom.jpg;]
-#de:[02appelboom.jpg;]
-#uk:[02appelboom.jpg;]
-#Uitkijkpunt nieuwe Hondsbosche  zeewering
-#nl:[IMG_4028.JPG;]
-#de:[IMG_4028.JPG;]
-#uk:[IMG_4028.JPG;]
-#Nieuwe Hondsbosche zeewering
-#nl:[IMG_4067.JPG;]
-#de:[IMG_4067.JPG;]
-#uk:[IMG_4067.JPG;]
-#Dijkje in Pettemer polder
-#nl:[IMG_4041.JPG;]
-#de:[IMG_4041.JPG;]
-#uk:[IMG_4041.JPG;]
-#Zuidlaan in Bergen
-#nl:[IMG_4747.JPG;]
-#de:[IMG_4747.JPG;]
-#uk:[IMG_4747.JPG;]
-#Kleine blinkerd bij Koningsweg#nl:[IMG_4062.JPG;]
-#de:[IMG_4062.JPG;]
-#uk:[IMG_4062.JPG;]
-#Corsicaanse den
-#nl:[IMG_4029.JPG;]
-#de:[IMG_4029.JPG;]
-#uk:[IMG_4029.JPG;]
-#Schapenwei Z.O. van Achterpad
-#nl:[IMG_4060.JPG;]
-#de:[IMG_4060.JPG;]
-#uk:[IMG_4060.JPG;]
-#Fietspad op Hondsbosche zeewering
-#nl:[IMG_4024.JPG;]
-#de:[IMG_4024.JPG;]
-#uk:[IMG_4024.JPG;]
-#Dijkje bij sluis Petttemer polder
-#nl:[26polder.jpg;]
-#de:[26polder.jpg;]
-#uk:[26polder.jpg;]
-#Molen in Pettemer polder
-#nl:[25molen.jpg;]
-#de:[25molen.jpg;]#Mühle in Pettemer Polder
-#uk:[25molen.jpg;]#Mill in Pettemer polder
-#Groeter kerkje
-#nl:[IMG_4039.JPG;]
-#de:[IMG_4039.JPG;]
-#uk:[IMG_4039.JPG;]
+/*
+//Hal
+nl:21hal.jpg;]
+de:21hal.jpg;]
+uk:21hal.jpg;]
+//Zithoek nieuw
+nl:[IMG_0109.jpg;]
+de:[IMG_0109.jpg;]
+uk:[IMG_0109.jpg;]
+*/
+/*
+//Agapanthus
+nl:[01agapanthus.jpg;]
+de:[01agapanthus.jpg;]
+uk:[01agapanthus.jpg;]
+//Appelboom in tuin
+nl:[02appelboom.jpg;]
+de:[02appelboom.jpg;]
+uk:[02appelboom.jpg;]
+//Uitkijkpunt nieuwe Hondsbosche  zeewering
+nl:[IMG_4028.jpg;]
+de:[IMG_4028.jpg;]
+uk:[IMG_4028.jpg;]
+//Nieuwe Hondsbosche zeewering
+nl:[IMG_4067.jpg;]
+de:[IMG_4067.jpg;]
+uk:[IMG_4067.jpg;]
+//Dijkje in Pettemer polder
+nl:[IMG_4041.jpg;]
+de:[IMG_4041.jpg;]
+uk:[IMG_4041.jpg;]
+//Zuidlaan in Bergen
+nl:[IMG_4747.jpg;]
+de:[IMG_4747.jpg;]
+uk:[IMG_4747.jpg;]
+//Kleine blinkerd bij Koningsweg
+nl:[IMG_4062.jpg;]
+de:[IMG_4062.jpg;]
+uk:[IMG_4062.jpg;]
+//Corsicaanse den
+nl:[IMG_4029.jpg;]
+de:[IMG_4029.jpg;]
+uk:[IMG_4029.jpg;]
+//Schapenwei Z.O. van Achterpad
+nl:[IMG_4060.jpg;]
+de:[IMG_4060.jpg;]
+uk:[IMG_4060.jpg;]
+//Fietspad op Hondsbosche zeewering
+nl:[IMG_4024.jpg;]
+de:[IMG_4024.jpg;]
+uk:[IMG_4024.jpg;]
+//Dijkje bij sluis Petttemer polder
+nl:[26polder.jpg;]
+de:[26polder.jpg;]
+uk:[26polder.jpg;]
+//Molen in Pettemer polder
+nl:[25molen.jpg;]
+de:[25molen.jpg;]//Mühle in Pettemer Polder
+uk:[25molen.jpg;]//Mill in Pettemer polder
+//Groeter kerkje
+nl:[IMG_4039.jpg;]
+de:[IMG_4039.jpg;]
+uk:[IMG_4039.jpg;]
+*/
 
 Bookings
 :&Bookings.csv;inNext12Months

@@ -1,4 +1,5 @@
-#Van      ;Tot       ;Omschrijving                                           ;via
+//Van      ;Tot       ;Omschrijving                                          ;via
+/*
 06-05-2006;13-05-2006;Mevr Mittag (D, 2 vlw, 1 knd)                          ;Aan zee
 20-05-2006;27-05-2006;Mevr S. Braak (Nl, 2 vlw, 1 knd)                       ;Aan zee
 17-06-2006;24-06-2006;Mevr Remensberger (CH, 2 vlw, 2 knd)                   ;Aan zee
@@ -10,6 +11,8 @@
 07-10-2006;14-10-2006;Mevr B.F. Fisher (D, 2 vlw, 2 knd)                     ;Aan zee
 14-10-2006;21-10-2006;Dhr M.G.A. Van Wijk (NL, 2 vlw)                        ;Aan zee
 21-10-2006;28-10-2006;Dhr S.F.J. Van den Oever (NL, 2 vlw, 2 knd)            ;Aan zee
+*/
+/*
 06-01-2007;13-01-2007;                                                       ;Geblokkeerd
 24-03-2007;31-03-2007;Wiersma (NL)                                           ;Aan zee
 31-03-2007;07-04-2007;Schrapers (D)                                          ;Aan zee
@@ -33,6 +36,8 @@
 23-11-2007;26-11-2007;De heer MPL Honderdors (NL)                            ;Aan zee
 22-12-2007;29-12-2007;Ria Montanus, Frank, Ties en Joep (NL)                 ;Eigen boeking
 29-12-2007;05-01-2008;                                                       ;Geblokkeerd
+*/
+/*
 05-01-2008;12-01-2008;Jorieke kamp (man, 1 knd, 2 vrienden) (NL)             ;Eigen boeking
 25-01-2008;28-01-2008;Caroline Dierkx en Paul Kroon (NL, 2 vlw, 2 knd)       ;Eigen boeking
 02-02-2008;06-02-2008;Jan Maurits Schouten (NL, 2 knd)                       ;Eigen boeking
@@ -64,6 +69,8 @@
 12-12-2008;15-12-2008;Antje Koopmans (NL)                                    ;Eigen boeking
 20-12-2008;27-12-2008;Peter Cornelisz/Jans Koopmans (NL, 3 vlw, 2 visite)    ;Eigen boeking
 27-12-2008;03-01-2009;Joke Molenaar (NL, 2 vlw, 2 knd (13,11))               ;Eigen boeking
+*/
+/*
 03-01-2009;25-04-2009;                                                       ;Geblokkeerd
 25-04-2009;09-05-2009;Marc en Yura van Rossum (NL, 2 vlw 2, knd (6,3))       ;Eigen boeking
 09-05-2009;16-05-2009;Fam. Ouwerkerk (NL, 2 vlw, 2 knd (3,1))                ;Eigen boeking
@@ -81,6 +88,8 @@
 17-10-2009;24-10-2009;Peter & Kirsten Borgen-Möller (D, 2 vlw, 2 knd)        ;Eigen boeking
 19-12-2009;26-12-2009;Josephine de Louw (NL, 2 vlw, 2 knd(11,13))            ;Eigen boeking
 26-12-2009;02-01-2010;Petra Biemans (NL, 2 vlw, 2 knd(3,4))                  ;Eigen boeking
+*/
+/*
 29-01-2010;31-01-2010;Sara van Gorp (Nl, 2 vlw, baby)                        ;Eigen boeking
 03-02-2010;10-02-2010;John en Ingrid Verheijen (NL, 2 vlw, 1 knd(1))         ;Eigen boeking
 15-02-2010;19-02-2010;Gera Swartz (Nl, 4 vlw)                                ;Eigen boeking
@@ -111,6 +120,8 @@
 19-11-2010;21-11-2010;Eileen en Erik van Hooren (B, 2 vlw, 2 knd(10,7)))     ;Eigen boeking
 30-11-2010;03-12-2010;Nicolette Morris (ZA, 2 vlw, 1 knd, 6 jr)              ;Eigen boeking
 28-12-2010;02-01-2011;Andre Lehmann (D, 2 vlw, 2 knd)                        ;Eigen boeking
+*/
+/*
 29-01-2011;19-02-2011;                                                       ;Geblokkeerd
 05-03-2011;12-03-2011;Fam Jacqueline Es-Siari- Oortwijn (CH, 2 vlw, knd(8))  ;Eigen boeking
 18-03-2011;20-03-2011;Ton Krupers (Nl)                                       ;Eigen boeking
@@ -138,6 +149,8 @@
 12-11-2011;19-11-2011;Gudrun Schmitz & Andreas Picard (D, 2 vlw)             ;Eigen boeking
 24-11-2011;27-11-2011;Sandra van der Pas                                     ;Eigen boeking
 27-12-2011;07-01-2012;Fam Schmuck (D, 4 vlw)                                 ;Eigen boeking
+*/
+/*
 11-01-2012;15-01-2012;Jelkmann (D)                                           ;Eigen boeking
 23-01-2012;30-01-2012;Berthold Haeutle, Anneleen Höing (D, 2 vlw)            ;Eigen boeking
 03-02-2012;05-02-2012;Anneke & Gerritjan                                     ;Geblokkeerd
@@ -168,6 +181,8 @@
 02-11-2012;04-11-2012;Eray Cetinkaya (Nl 2 vlw, 2 knd (10,4))                ;Eigen boeking
 22-12-2012;28-12-2012;Hans Leushuis (NL, 2 vlw)                              ;Eigen boeking
 28-12-2012;04-01-2013;Anne-Katrin Heinke (D, 4 vlw)                          ;Eigen boeking
+*/
+/*
 18-01-2013;21-01-2013;Anton Veening (Nl, 1 vlw)                              ;Eigen boeking
 14-02-2013;16-02-2013;Silvia Vredegoor (NL, 4 vlw)                           ;Eigen boeking
 21-02-2013;25-02-2013;Theda en Jan                                           ;Geblokkeerd
@@ -196,6 +211,8 @@
 12-10-2013;19-10-2013;Familie de Vries (Nl, 2 vlw, 2 knd)                    ;Eigen boeking
 19-10-2013;26-10-2013;Neumann (Sabine, Bernd und Paul und ?)                 ;Eigen boeking
 26-10-2013;02-11-2013;Fam Gärtner (D, 2 vlw 2 knd (12,8))                    ;Eigen boeking
+*/
+/*
 03-01-2014;10-01-2014;Jasja van der Zijde (3 vlw, 2 knd (1,3))               ;Eigen boeking
 11-01-2014;18-01-2014;Christian Lemm & Silke Mölders (D, 2 vlw)              ;Eigen boeking
 18-01-2014;08-02-2014;                                                       ;Geblokkeerd
@@ -219,6 +236,8 @@
 04-10-2014;18-10-2014;fam Gärtner (D, 2 vclw, 2 knd (13,9))                  ;Eigen boeking
 18-10-2014;25-10-2014;Familie Barth (D, 2 vlw, 2 dochters (14,16))           ;Eigen boeking
 27-12-2014;03-01-2015;Familie Wellnitz (D, 2 vlw, 2 knd)                     ;Eigen boeking
+*/
+/*
 10-01-2015;17-01-2015;Christian Lemm (D, 2 vlw)                              ;Eigen boeking
 26-01-2015;30-01-2015;Joke Molenaar (NL, 3 vlw)                              ;Eigen boeking
 28-03-2015;04-04-2015;Familie Schütz (D, 3 vlw, 1 knd (9))                   ;Eigen boeking
@@ -239,73 +258,81 @@
 29-10-2015;01-11-2015;Reurthmans (D, 4 vlw)                                  ;Eigen boeking
 21-11-2015;12-12-2015;Sigrid en Rob de Vries (Nl, 2 vlw, 1 knd)              ;Eigen boeking
 27-12-2015;03-01-2016;Fam Stoffl (D, 2 vlw, 1 knd)                           ;Eigen boeking
+*/
+/*
 16-01-2016;23-01-2016;Christian Lemm                                         ;Eigen boeking
-05-02-2016;08-02-2016;Claudia L'Atellier (D, 2 vlw, 2 knd)                  ;Eigen boeking
+05-02-2016;08-02-2016;Claudia L'Atellier (D, 2 vlw, 2 knd)                   ;Eigen boeking
 02-03-2016;07-03-2016;maart	5	Kathi & Bene Liesenfeld (D, 2 vlw)             ;Eigen boeking
 10-03-2016;17-03-2016;Christiane  & Laurentius Beule                         ;Eigen boeking
-19-03-2016;26-03-2016;Silke Hermanns (D, 2 vlw, 2 knd (14/,8 jr))           ;Eigen boeking
-26-03-2016;02-04-2016;fam Niedercorn (Luxemburg, 2 vlw, 2 knd (8,1 jr))     ;Eigen boeking
-02-04-2016;09-04-2016;Rundensteiner (D, 2 vlw, 3 knd (8,6,3 jr oud))        ;Eigen boeking
-10-04-2016;16-04-2016;Daniela Nagel (D, 2 vlw, baby 9 mnd)                  ;Eigen boeking
+19-03-2016;26-03-2016;Silke Hermanns (D, 2 vlw, 2 knd (14/,8 jr))            ;Eigen boeking
+26-03-2016;02-04-2016;fam Niedercorn (Luxemburg, 2 vlw, 2 knd (8,1 jr))      ;Eigen boeking
+02-04-2016;09-04-2016;Rundensteiner (D, 2 vlw, 3 knd (8,6,3 jr oud))         ;Eigen boeking
+10-04-2016;16-04-2016;Daniela Nagel (D, 2 vlw, baby 9 mnd)                   ;Eigen boeking
 18-04-2016;01-05-2016;Weilmunster (d, 2 vlw)                                 ;Eigen boeking
 05-05-2016;14-05-2016;Annette Schulze lohoff en Peter Nyman                  ;Eigen boeking
 14-05-2016;21-05-2016;Veit Schmitz (D, 3 vlw)                                ;Eigen boeking
-21-05-2016;28-05-2016;Inge Cramer (D, 2 vlw, 2 knd (18, 16 jaar))           ;Eigen boeking
-28-05-2016;30-05-2016;Chris en partner                                       ;Airbnb
-11-06-2016;18-06-2016;Silke  Unterbusch (D, 2 vlw, baby 20 mnd)             ;Airbnb
-18-06-2016;02-07-2016;Melanie & Ansgar Giebels (D, 2 vlw, 2 knd (4,2 jr))   ;Eigen boeking
-09-07-2016;16-07-2016;Franziska Hase (D, 2 vlw, 2 knd)                      ;Eigen boeking
-16-07-2016;30-07-2016;Martin, Elga & benjamin Schwarz (CH, 2 vlw, 1 knd)    ;Eigen boeking
+21-05-2016;28-05-2016;Inge Cramer (D, 2 vlw, 2 knd (18, 16 jaar))            ;Eigen boeking
+28-05-2016;30-05-2016;Chris en partner                                       ;AirBnB
+11-06-2016;18-06-2016;Silke  Unterbusch (D, 2 vlw, baby 20 mnd)              ;AirBnB
+18-06-2016;02-07-2016;Melanie & Ansgar Giebels (D, 2 vlw, 2 knd (4,2 jr))    ;Eigen boeking
+09-07-2016;16-07-2016;Franziska Hase (D, 2 vlw, 2 knd)                       ;Eigen boeking
+16-07-2016;30-07-2016;Martin, Elga & benjamin Schwarz (CH, 2 vlw, 1 knd)     ;Eigen boeking
 30-07-2016;13-08-2016;Fam Sprangers (D, 2 knd van 4 jr)                      ;Eigen boeking
-13-08-2016;03-09-2016;Fam Glindmeier (D, 2 vlw, 2 knd (11,13 jr))           ;Eigen boeking
-09-09-2016;12-09-2016;Johan v,d Werk (Nl, 2 vlw, 2 knd 0,2 jr)              ;Airbnb
-12-09-2016;19-09-2016;Eveline Hosang (Nl, 2 vlw, 1 knd)                     ;Eigen boeking
-24-09-2016;26-09-2016;Petra (Nl, 2 vlw, baby)                               ;Airbnb
+13-08-2016;03-09-2016;Fam Glindmeier (D, 2 vlw, 2 knd (11,13 jr))            ;Eigen boeking
+09-09-2016;12-09-2016;Johan v,d Werk (Nl, 2 vlw, 2 knd 0,2 jr)               ;AirBnB
+12-09-2016;19-09-2016;Eveline Hosang (Nl, 2 vlw, 1 knd)                      ;Eigen boeking
+24-09-2016;26-09-2016;Petra (Nl, 2 vlw, baby)                                ;AirBnB
 30-09-2016;03-10-2016;Jorg Weber (D, 4 vlw)                                  ;Eigen boeking
-08-10-2016;15-10-2016;Simone Nogossek (D, 2 vlw, 2 knd (16,15 jr)           ;Eigen boeking
-15-10-2016;22-10-2016;Frank Eichhorn (D, 2 vlw, 1 knd)                      ;Eigen boeking
-22-10-2016;28-10-2016;Fides Knusmaier (D, 2 vlw, 2 knd)                     ;Eigen boeking
-29-10-2016;05-11-2016;Tjitske Boon (NL, 2 vlw, 1 knd (<2 jr)                ;Eigen boeking
-18-11-2016;21-11-2016;Edwin (NL, 4 vlw)                                      ;Airbnb
+08-10-2016;15-10-2016;Simone Nogossek (D, 2 vlw, 2 knd (16,15 jr)            ;Eigen boeking
+15-10-2016;22-10-2016;Frank Eichhorn (D, 2 vlw, 1 knd)                       ;Eigen boeking
+22-10-2016;28-10-2016;Fides Knusmaier (D, 2 vlw, 2 knd)                      ;Eigen boeking
+29-10-2016;05-11-2016;Tjitske Boon (NL, 2 vlw, 1 knd (<2 jr)                 ;Eigen boeking
+18-11-2016;21-11-2016;Edwin (NL, 4 vlw)                                      ;AirBnB
 03-12-2016;05-12-2016;Majsa met vrienden                                     ;Geblokkeerd
 26-12-2016;01-01-2017;Winfried Lieberenz                                     ;Eigen boeking
-27-01-2017;29-01-2017;Hilde van der Molen (NL,3, 1 baby)                     ;Airbnb
+*/
+/*
+27-01-2017;29-01-2017;Hilde van der Molen (NL,3, 1 baby)                     ;AirBnB
 04-02-2017;07-02-2017;Joke Molenaar en Frans Wageningen (Nl)                 ;Eigen boeking
-23-02-2017;28-02-2017;Silke Hermanns (D, 2 vlw, 2 knd (15, 9 jr))           ;Airbnb
-02-03-2017;04-03-2017;Annegret (NL, 2 vlw)                                   ;Airbnb
+23-02-2017;28-02-2017;Silke Hermanns (D, 2 vlw, 2 knd (15, 9 jr))            ;AirBnB
+02-03-2017;04-03-2017;Annegret (NL, 2 vlw)                                   ;AirBnB
 24-03-2017;31-03-2017;Eduard Peschen (D, 2 vlw)                              ;FEWO
-01-04-2017;08-04-2017;Rundensteiner (D, 2 vlw, 3 knd (9,7 en 4 jr oud)      ;Eigen boeking
-08-04-2017;15-04-2017;Niedercorn (Luxemburg, 2 vlw, 2 knd (9, 2 jr))        ;Eigen boeking
-15-04-2017;22-04-2017;Petra Ahrens (D, 2 vlw, 1 zoon)                       ;FEWO
-23-04-2017;26-04-2017;Peter Weersink (NL, 2 vlw, _ 3 knd (19,17,12))         ;Airbnb
+01-04-2017;08-04-2017;Rundensteiner (D, 2 vlw, 3 knd (9,7 en 4 jr oud)       ;Eigen boeking
+08-04-2017;15-04-2017;Niedercorn (Luxemburg, 2 vlw, 2 knd (9, 2 jr))         ;Eigen boeking
+15-04-2017;22-04-2017;Petra Ahrens (D, 2 vlw, 1 zoon)                        ;FEWO
+23-04-2017;26-04-2017;Peter Weersink (NL, 2 vlw, _ 3 knd (19,17,12))         ;AirBnB
 03-05-2017;07-05-2017;Theda en Jan                                           ;Geblokkeerd
-20-05-2017;27-05-2017;Markus (D, 3 vlw, 1 knd)                              ;Airbnb
-10-06-2017;26-06-2017;Melanie & Ansgar Giebels (D, 2 vlw, 2 knd (5,3 jr))   ;Eigen boeking
-01-07-2017;08-07-2017;Fam. Kuhn (D, 2 vlw, 2 knd 15 & 20 jr)                ;Airbnb
+20-05-2017;27-05-2017;Markus (D, 3 vlw, 1 knd)                               ;AirBnB
+10-06-2017;26-06-2017;Melanie & Ansgar Giebels (D, 2 vlw, 2 knd (5,3 jr))    ;Eigen boeking
+01-07-2017;08-07-2017;Fam. Kuhn (D, 2 vlw, 2 knd 15 & 20 jr)                 ;AirBnB
 15-07-2017;29-07-2017;Fam Sprangers (D, 2 knd van 4 jr)                      ;Eigen boeking
-29-07-2017;19-08-2017;Fam Glindmeier (D, 2 vlw, 2 knd (12,14jr)             ;Eigen boeking
-19-08-2017;02-09-2017;Ingrid Klaas (D, 2 vlw, 2 knd)                        ;FEWO
-23-09-2017;30-09-2017;Ina Haasler (D, 2 vlw, 2 knd)                         ;Eigen boeking
-30-09-2017;07-10-2017;Fam Barth (D, 2 vlw, 2 dochters (17,19 jaar))         ;Eigen boeking
-14-10-2017;21-10-2017;Rike en Moniek Weeting (NL, 2 vlw, 2 knd (2,0 jr))    ;Eigen boeking
-28-10-2017;04-11-2017;Susanne Schleep (D, 2 vlw, 2 knd)                     ;Eigen boeking
+29-07-2017;19-08-2017;Fam Glindmeier (D, 2 vlw, 2 knd (12,14jr)              ;Eigen boeking
+19-08-2017;02-09-2017;Ingrid Klaas (D, 2 vlw, 2 knd)                         ;FEWO
+23-09-2017;30-09-2017;Ina Haasler (D, 2 vlw, 2 knd)                          ;Eigen boeking
+30-09-2017;07-10-2017;Fam Barth (D, 2 vlw, 2 dochters (17,19 jaar))          ;Eigen boeking
+14-10-2017;21-10-2017;Rike en Moniek Weeting (NL, 2 vlw, 2 knd (2,0 jr))     ;Eigen boeking
+28-10-2017;04-11-2017;Susanne Schleep (D, 2 vlw, 2 knd)                      ;Eigen boeking
 27-12-2017;03-01-2018;Brigitte Ambergen-Schiwora (D, 4 vlw)                  ;FEWO
+*/
 03-01-2018;10-01-2018;Annette Lohof & Peter Nyman                            ;Eigen boeking
 13-01-2018;20-01-2018;Christian Lemm (Nl sprekende duitsers 2 vlw)           ;Eigen boeking
-20-02-2018;24-03-2018;                                                       ;Geblokkeerd
-24-03-2018;31-03-2018;Rundensteiner (D, 2 vlw, 3 knd (10,8 en 5jr oud)      ;Eigen boeking
-31-03-2018;07-04-2018;Simone Schillo (D, 2 vlw, 2 knd (10,12 jr))           ;Eigen boeking
+20-02-2018;24-03-2018;Verbouwing keuken                                      ;Geblokkeerd
+24-03-2018;31-03-2018;Rundensteiner (D, 2 vlw, 3 knd (10,8 en 5jr oud)       ;Eigen boeking
+31-03-2018;07-04-2018;Simone Schillo (D, 2 vlw, 2 knd (10,12 jr))            ;Eigen boeking
 18-04-2018;25-04-2018;Vincent en Jeska (baby 3 mnd)                          ;AirBnB
-28-04-2018;05-05-2018;Robert Exner (D, 2 vlw, 2 knd)                        ;Eigen boeking
+28-04-2018;05-05-2018;Robert Exner (D, 2 vlw, 2 knd)                         ;Eigen boeking
+05-05-2018;07-05-2018;Maxime, Annœullin, Hauts-de-France, France             ;AirBnB
+18-05-2018;21-05-2018;Iris, Utrecht                                          ;AirBnB
 21-05-2018;25-05-2018;Klaus                                                  ;AirBnB
 26-05-2018;02-06-2018;Marcus Weise                                           ;FEWO
 02-06-2018;09-06-2018;Suzanne Schleep                                        ;Eigen boeking
 09-06-2018;19-06-2018;Annette Lohof & Peter Nyman                            ;Eigen boeking
 19-06-2018;30-06-2018;Vakantie Henny                                         ;Geblokkeerd
-30-06-2018;14-07-2018;Melanie & Ansgar Giebels (D, 2 vlw, 2 knd (6,4 jr))   ;Eigen boeking
+30-06-2018;14-07-2018;Melanie & Ansgar Giebels (D, 2 vlw, 2 knd (6,4 jr))    ;Eigen boeking
 14-07-2018;28-07-2018;Ute Nienhoff (D, gezin 2 knd (13,9))                   ;Eigen boeking
 28-07-2018;11-08-2018;Dorothee Radtke (D, 2 personen)                        ;FEWO
 11-08-2018;25-08-2018;Fam Sprangers (D, 2 knd van 5 jr)                      ;Eigen boeking
+25-08-2018;26-08-2018;Vakantie Henny                                         ;Geblokkeerd
 26-08-2018;02-09-2018;Ursula Birg                                            ;FEWO
 02-09-2018;15-09-2018;Vakantie Henny                                         ;Geblokkeerd
 19-09-2018;28-09-2018;Susanne & Norbert Hayess (D, 2 vlw)                    ;FEWO

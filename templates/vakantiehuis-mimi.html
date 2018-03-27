@@ -102,16 +102,17 @@
 
 		<h3>{{.SM.ImageGalery}}</h3>
 		<div id="fotoCarousel" class="carousel slide" data-ride="carousel">
+			<!--
 			<ol class="carousel-indicators">
 				{{range $i, $img := .Images}}
 				<li data-target="#fotoCarousel" data-slide-to="{{$i}}"{{if equal $i 0}} class="active"{{end}}></li>
 				{{end}}
-			</ol> <!-- /carousel-indicators -->
+			</ol> --><!-- /carousel-indicators -->
 
 			<div class="carousel-inner" role="listbox" data-interval="500">
 				{{range $i, $img := .Images}}
 				<div class="item{{if equal $i 0}} active{{end}}">
-					<img src="{{$p}}images/{{$img.Src}}" class="img-responsive" alt="{{$img.Alt}}" width="460" height="345">
+					<img src="{{$p}}images/{{$img.Src}}" class="img-responsive" alt="{{$img.Alt}}">
 					<div class="carousel-caption">
 						<h3>{{$img.Alt}}</h3>
 					</div>

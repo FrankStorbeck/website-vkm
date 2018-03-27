@@ -1,4 +1,4 @@
-#concat
+/*concat*/
 In Schoorl, even ten noordwesten van Alkmaar, kunt u ons vakantiehuis 'Mimi' huren. De vakantiewoning bevindt zich achter ons woonhuis, maar staat er vrij van. Wij wonen aan een zeer rustig weggetje dat iets verderop overgaat in een fietspad dat u direct naar de duinen voert.
 
 Het huis (type bungalow jaren 70) heeft een hal, een woonkamer met open keuken, boven twee slaapkamers met ieder twee slaapplaatsen en een overloop met kinderbedje. Er is een badkamer met douche, toilet en wasmachine. U kunt draadloos internetten. Er is beddengoed
@@ -14,4 +14,4 @@ De verblijfkosten zijn inclusief gebruik gas, water en elektra en moeten vooraf 
 
 Om iedereen een aangenaam verblijf te kunnen blijven bieden is binnen roken en aanwezigheid van gezelschapsdieren niet toegestaan.
 
-Wij doen er alles aan om uw verblijf in vakantiewoning &quot;Mimi&quot; zo aangenaam mogelijk te maken.
+Wij doen er alles aan om uw verblijf in vakantiewoning 'Mimi' zo aangenaam mogelijk te maken.
